@@ -1,0 +1,10 @@
+# 热部署, 增量更新
+echo "=====&3DeployOnFly - %project.name%&r====="
+run settings.lvt
+var path {list get "%rrt.file%" 1}
+var isProceed false
+echo "侦测到修改 &8[&7^path^&8]"
+check {regex \.psd$ match "^path^"} run partialUpdatePsd.lvt
+check {not ^isProceed^} run partialUpdateDirect.lvt
+import shulker.rrt
+rrt ^gameRoot^

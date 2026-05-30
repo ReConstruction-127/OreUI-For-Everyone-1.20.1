@@ -1,0 +1,9 @@
+# 组装项目, 用完记得清理缓存文件夹
+import shulker.magick
+copy ./assets/ %project.cache%/assets/ true .*\.psd
+psdcvt ./assets/ %project.cache%/assets/
+copy pack.png %project.cache%/pack.png
+copy pack.mcmeta %project.cache%/pack.mcmeta
+copy README.md %project.cache%/README.md
+copy LICENSE %project.cache%/LICENSE
+copy contributor.csv %project.cache%/contributor.csv

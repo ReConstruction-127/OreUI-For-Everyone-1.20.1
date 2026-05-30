@@ -1,0 +1,7 @@
+﻿# 增量更新: PSD
+echo "&e侦测到psd文件变动"
+var dest {path remapper ./src "^path^" "^targetPath^" .png}
+import shulker.magick
+psdcvt "^path^" "^dest^"
+pbrex "^path^" "^dest^"
+var isProceed true

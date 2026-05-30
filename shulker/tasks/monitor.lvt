@@ -1,0 +1,5 @@
+echo "=====&3Dev - %project.name%&r====="
+run deploy.lvt
+import shulker.rrt
+pw start "^(?!.*\.(?:tmp|temp|bak|swp|swo|log|old|cache)$).*$" "./assets/"
+echo "&e已部署完成, 监视中, &c使用&7 pw stop &c关闭变更监听器"

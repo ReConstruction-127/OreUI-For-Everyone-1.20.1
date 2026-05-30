@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="build">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/OreUI-For-Everyone_0.0.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/build/OreUI-For-Everyone_1.20.1_1.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

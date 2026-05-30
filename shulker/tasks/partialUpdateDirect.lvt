@@ -1,0 +1,4 @@
+﻿# 增量更新: 直接更新
+var dest {path remapper ./src "^path^" "^targetPath^"}
+copy "^path^" "^dest^"
+var isProceed true

@@ -1,0 +1,6 @@
+echo "=====&3Dev - %project.name%&r====="
+run deploy.lvt
+import shulker.rrt
+pw start "^(?!.*\.(?:tmp|temp|bak|swp|swo|log|old|cache)$).*$" "./assets/"
+sh powershell /c ./shulker/local/client.ps1
+pw stop
