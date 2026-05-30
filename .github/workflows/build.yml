@@ -1,0 +1,23 @@
+name: Build
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Permissions
+        run: chmod +x srdk
+
+      - name: Build
+        run: ./srdk c task build
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: resourcePack
+          path: build/*.zip
