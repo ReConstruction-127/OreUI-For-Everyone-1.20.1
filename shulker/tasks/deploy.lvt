@@ -1,7 +1,0 @@
-echo "=====&3Deploy - %project.name%&r====="
-run settings.lvt
-run assembly.lvt
-delete ^targetPath^
-copy %project.cache% ^targetPath^
-makeCleanup
-echo "&aDEPLOY SUCCEED!"
