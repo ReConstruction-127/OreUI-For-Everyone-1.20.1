@@ -1,6 +1,6 @@
 [your_name],[mod_id][(additions)],,Collaborators,Function
 Re_Construction,advanced_ae,,Re_Construction,Owner
-Re_Construction,ae2(1.20.1适配),,LiPolymer,ShulkerRDK
+Re_Construction,ae2(1.20.1适配),,,
 Delta,ae2(JEI适配),,,
 Re_Construction,ae2insertexportcard(1.20.1适配),,,
 AL,aether,,,
@@ -17,6 +17,7 @@ Delta,cofh_core(补全),,,
 jihan_hanhan,computercraft,,,
 Delta,configured,,,
 Delta,cookingforblockheads,,,
+Delta,craftingstationjei,,,
 Re_Construction,create,,,
 Re_Construction,create_connected,,,
 Re_Construction,create_enchantment_industary,,,
