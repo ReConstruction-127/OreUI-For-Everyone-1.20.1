@@ -1,5 +1,0 @@
-echo "=====&3Build - %project.name%&r====="
-run assembly.lvt
-makePkg
-makeCleanup
-echo "&aBUILD SUCCEED!"
