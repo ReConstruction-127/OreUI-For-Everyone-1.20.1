@@ -3,172 +3,176 @@
 = 以UTF-8格式打开！
 ============================
 
-[your_name] ,[mod_id] [(additions)]
+[your_name], [mod_id] [(additions)]
 
-Re_Construction ,advanced_ae
+Re_Construction, advanced_ae
 
-Re_Construction ,ae2 (1.20.1适配)
+Re_Construction, ae2 (1.20.1适配)
 
-Delta ,ae2 (JEI适配)
+Delta, ae2 (JEI适配)
 
-Re_Construction ,ae2insertexportcard (1.20.1适配)
+Re_Construction, ae2insertexportcard (1.20.1适配)
 
-AL ,aether
+AL, aether
 
-AL ,aether_redux
+AL, aether_redux
 
-Re_Construction ,alexscaves
+Re_Construction, alexscaves
 
-Re_Construction ,ali
+Re_Construction, ali
 
-AL ,betteradvancements
+AL, betteradvancements
 
-Delta ,botanypots
+Delta, botanypots
 
-Delta ,botanypotstiers
+Delta, botanypotstiers
 
-Delta ,chunkbychunk
+Delta, chunkbychunk
 
-Delta ,cloth-config2
+Delta, cloth-config2
 
-Re_Construction ,cofh_core
+Re_Construction, cofh_core
 
-Delta ,cofh_core (补全)
+Delta, cofh_core (补全)
 
-jihan_hanhan ,computercraft
+jihan_hanhan, computercraft
 
-Delta ,configured
+Delta, configured
 
-Delta ,cookingforblockheads
+Delta, cookingforblockheads
 
-Delta ,craftingstationjei
+Delta, craftingstationjei
 
-Re_Construction ,create
+Re_Construction, create
 
-Re_Construction ,create_connected
+Re_Construction, create_connected
 
-Re_Construction ,create_enchantment_industary
+Re_Construction, create_enchantment_industary
 
-Delta ,cucumber
+Delta, cucumber
 
-Re_Construction ,curios
+Re_Construction, curios
 
-AL ,curios
+AL, curios
 
-Re_Construction ,custommachinary
+Re_Construction, custommachinary
 
-Delta ,cyclopscore
+Delta, cyclopscore
 
-Re_Construction ,emi
+Re_Construction, emi
 
-Re_Construction ,emi_loot
+Re_Construction, emi_loot
 
 
-jihan_hanhan ,enderio (1.20.1)
+jihan_hanhan, enderio (1.20.1)
 
-Re_Construction ,entity_features
+Re_Construction, entity_features
 
-Re_Construction ,expatternprovider (1.20.1适配)
+Re_Construction, expatternprovider (1.20.1适配)
 
-Delta ,extendedcrafting
+Delta, extendedcrafting
 
-Re_Construction ,extremesoundmuffler
+Re_Construction, extremesoundmuffler
 
-Re_Construction ,farmersdelight
+Re_Construction, farmersdelight
 
-Delta ,farmersdelight (JEI适配)
+Delta, farmersdelight (JEI适配)
 
-Delta ,fluxnetworks (JEI适配)
+Delta, fluxnetworks (JEI适配)
 
-Delta ,fpsreducer
+Delta, fpsreducer
 
-Delta ,ftbchunks
+Delta, ftbchunks
 
-Re_Construction ,ftblibrary
+Re_Construction, ftblibrary
 
-Re_Construction ,ftbquests
+Re_Construction, ftbquests
 
-Delta ,ftbquests (JEI适配)
+Delta, ftbquests (JEI适配)
 
-Re_Construction ,gtceu
+Re_Construction, gtceu
 
-Delta ,guideme
+Delta, guideme
 
-Delta ,heracles
+Delta, heracles
 
-Delta ,ichunutil
-Re_Construction ,immersiveengineering
+Delta, ichunutil
+Re_Construction, immersiveengineering
 
-jihan_hanhan ,industrialforegoing
+jihan_hanhan, industrialforegoing
 
-Delta ,inventoryprofilesnext
+Delta, inventoryprofilesnext
 
-Delta ,itemfilters
+Delta, itemfilters
 
-Re_Construction ,jei
+Re_Construction, jei
 
-Delta ,jei (补充)
+Delta, jei (补充)
 
-Delta ,jei_mekanism_multiblocks
+Delta, jei_mekanism_multiblocks
 
-Delta ,jeresources
+Delta, jeresources
 
-Re_Construction ,ldlib
+Re_Construction, ldlib
 
-Delta ,ldlib (icons)
+Delta, ldlib (icons)
 
-Delta ,libipn
+Delta, libipn
 
-Delta ,lychee
+Delta, lychee
 
-Re_Construction ,mbtool
+Re_Construction, mbtool
 
-Delta ,mbtool (补全)
+Delta, mbtool (补全)
 
-Delta ,mbd2
+Delta, mbd2
 
-Re_Construction ,mekanism
+Re_Construction, mekagenjei
 
-Delta ,mekanism (补全)
+Re_Construction, mekanism
 
-Delta ,mekanismadditions
+Delta, mekanism (补全)
 
-Delta ,mekanismgenerators
+Delta, mekanismadditions
 
-Delta ,mekanismtools
+Delta, mekanismgenerators
 
-Re_Construction ,minecraft
+Delta, mekanismtools
 
-Delta ,minecraft (补全)
+Re_Construction, minecraft
 
-Delta ,modularrouters
+Delta, minecraft (补全)
 
-Delta ,patchouli
+Delta, modularrouters
 
-Re_Construction ,pipez
+Delta, patchouli
 
-Delta ,pipez (改进)
+Re_Construction, pipez
 
-Delta ,polymorph
+Delta, pipez (改进)
 
-Re_Construction ,rechiseled
+Delta, polymorph
 
-jihan_hanhan ,refinedstorage
+Re_Construction, rechiseled
 
-Delta ,scannable
+jihan_hanhan, refinedstorage
 
-Re_Construction ,sophisticatedcore
+Re_Construction, roughlyenoughitems
 
-Delta ,supplementaries
+Delta, scannable
 
-Re_Construction ,tconstruct
+Re_Construction, sophisticatedcore
 
-Re_Construction ,thermal
+Delta, supplementaries
 
-Delta ,thermal(补全)
+Re_Construction, tconstruct
 
-Re_Construction ,thermal_extra
+Re_Construction, thermal
 
-Delta ,torcherino
+Delta, thermal (补全)
 
-Re_Construction ,titanium
+Re_Construction, thermal_extra
+
+Delta, torcherino
+
+Re_Construction, titanium
