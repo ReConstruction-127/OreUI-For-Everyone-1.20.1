@@ -4,7 +4,7 @@
 
 还把它往高版本移植了
 
-欢迎您制作其他模组的兼容，您可以把你的名字及贡献写到 `contributor.csv` 中
+欢迎您制作其他模组的兼容，您可以把你的名字及贡献写到 `contributor.txt` 中
 
 本仓库接受pull request
 

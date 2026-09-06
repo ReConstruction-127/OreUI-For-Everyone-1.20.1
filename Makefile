@@ -19,7 +19,7 @@ assembly: $(CACHE_DIR)
 	@cp pack.mcmeta $(CACHE_DIR)/pack.mcmeta
 	@cp README.md $(CACHE_DIR)/README.md
 	@cp LICENSE $(CACHE_DIR)/LICENSE
-	@cp contributor.csv $(CACHE_DIR)/contributor.csv
+	@cp contributor.txt $(CACHE_DIR)/contributor.txt
 	@echo "Assembly complete!"
 
 makePkg:
