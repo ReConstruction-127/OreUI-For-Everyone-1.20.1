@@ -59,10 +59,11 @@ Re_Construction, custommachinary
 
 Delta, cyclopscore
 
+Re_Construction, easyrepair
+
 Re_Construction, emi
 
 Re_Construction, emi_loot
-
 
 jihan_hanhan, enderio (1.20.1)
 
@@ -97,7 +98,10 @@ Delta, guideme
 Delta, heracles
 
 Delta, ichunutil
+
 Re_Construction, immersiveengineering
+
+Re_Construction, immersiveindustry
 
 jihan_hanhan, industrialforegoing
 

@@ -5,7 +5,7 @@ for %%i in ("%CD%") do (
 	set NAME=OreUI-For-Everyone-1.20.1
 )
 
-set EXCLUDE=.git .gitignore AutoPacking.bat build .idea achieves
+set EXCLUDE=.git .gitignore AutoPacking.bat build .idea achieves shulker
 
 if not exist "build" mkdir "build"
 if exist "build\%NAME%.zip" del "build\%NAME%.zip"
