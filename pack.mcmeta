@@ -1,7 +1,9 @@
 {
 	"pack": {
 		"pack_format": 15,
-		"description": "§bOreUI, But Everyone
-By Re_Construction"
+		"supported_formats": [15, 91],
+		"min_format": 15,
+		"max_format": 91,
+		"description": "§bOreUI, But Everyone\nBy Re_Construction"
 	}
 }
