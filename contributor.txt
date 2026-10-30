@@ -182,3 +182,20 @@ Re_Construction, thermal_extra
 Delta, torcherino
 
 Re_Construction, titanium
+
+OnDreamQwQ, draconicevolution
+
+OnDreamQwQ, forbidden_arcanus
+
+OnDreamQwQ, trashslot
+
+OnDreamQwQ, l2tabs
+
+OnDreamQwQ, attributeslib
+
+OnDreamQwQ, apotheosis
+
+OnDreamQwQ, lightmanscurrency
+
+OnDreamQwQ craftingtweaks
+
