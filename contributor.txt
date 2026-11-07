@@ -2,6 +2,9 @@
 = OPEN AS UTF-8 FORMAT!!!1!
 = 以UTF-8格式打开！
 ============================
+= Sort in A-Z order!
+= 按A-Z顺序排序！
+============================
 
 [your_name], [mod_id] [(additions)]
 
@@ -20,6 +23,10 @@ AL, aether_redux
 Re_Construction, alexscaves
 
 Re_Construction, ali
+
+OnDreamQwQ, apotheosis
+
+OnDreamQwQ, attributeslib
 
 AL, betteradvancements
 
@@ -43,6 +50,8 @@ Delta, cookingforblockheads
 
 Delta, craftingstationjei
 
+OnDreamQwQ craftingtweaks
+
 Re_Construction, create
 
 Re_Construction, create_connected
@@ -58,6 +67,8 @@ AL, curios
 Re_Construction, custommachinary
 
 Delta, cyclopscore
+
+OnDreamQwQ, draconicevolution
 
 Re_Construction, easyrepair
 
@@ -80,6 +91,8 @@ Re_Construction, farmersdelight
 Delta, farmersdelight (JEI适配)
 
 Delta, fluxnetworks (JEI适配)
+
+OnDreamQwQ, forbidden_arcanus
 
 Delta, fpsreducer
 
@@ -117,11 +130,15 @@ Delta, jei_mekanism_multiblocks
 
 Delta, jeresources
 
+OnDreamQwQ, l2tabs
+
 Re_Construction, ldlib
 
 Delta, ldlib (icons)
 
 Delta, libipn
+
+OnDreamQwQ, lightmanscurrency
 
 Delta, lychee
 
@@ -169,6 +186,8 @@ Delta, scannable
 
 Re_Construction, sophisticatedcore
 
+Re_Construction, supermartijn642corelib
+
 Delta, supplementaries
 
 Re_Construction, tconstruct
@@ -179,23 +198,12 @@ Delta, thermal (补全)
 
 Re_Construction, thermal_extra
 
-Delta, torcherino
+Re_Construction, thermal_dynamics
 
 Re_Construction, titanium
 
-OnDreamQwQ, draconicevolution
+Delta, torcherino
 
-OnDreamQwQ, forbidden_arcanus
+Re_Construction, trashcans
 
 OnDreamQwQ, trashslot
-
-OnDreamQwQ, l2tabs
-
-OnDreamQwQ, attributeslib
-
-OnDreamQwQ, apotheosis
-
-OnDreamQwQ, lightmanscurrency
-
-OnDreamQwQ craftingtweaks
-
