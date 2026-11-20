@@ -1,5 +1,5 @@
 ============================
-= OPEN AS UTF-8 FORMAT!!!1!
+= OPEN AS UTF-8 FORMAT!!!!!
 = 以UTF-8格式打开！
 ============================
 = Sort in A-Z order!
@@ -20,6 +20,8 @@ Re_Construction, ae2insertexportcard (1.20.1适配)
 
 AL, aether
 
+Re_Construction, aether (修复)
+
 AL, aether_redux
 
 Re_Construction, alexscaves
@@ -32,6 +34,8 @@ OnDreamQwQ, attributeslib
 
 AL, betteradvancements
 
+Delta, betteradvancements (修复)
+
 Delta, botanypots
 
 Delta, botanypotstiers
@@ -43,6 +47,8 @@ Delta, cloth-config2
 Re_Construction, cofh_core
 
 Delta, cofh_core (补全)
+
+Re_Construction, computercraft (初始导入、补全)
 
 jihan_hanhan, computercraft
 
@@ -107,6 +113,8 @@ Delta, fpsreducer
 Delta, ftbchunks
 
 Re_Construction, ftblibrary
+
+Delta, ftblibrary (补全)
 
 Re_Construction, ftbquests
 
@@ -174,6 +182,8 @@ Re_Construction, minecraft
 
 Delta, minecraft (补全)
 
+Niangao_yxCN, minecraft (配方书按钮)
+
 Delta, modularrouters
 
 Re_Construction, neoecoae
@@ -190,6 +200,8 @@ Delta, polymorph
 
 Re_Construction, rechiseled
 
+Delta, rechiseled (新版本更新)
+
 jihan_hanhan, refinedstorage
 
 Re_Construction, roughlyenoughitems
@@ -197,6 +209,8 @@ Re_Construction, roughlyenoughitems
 Delta, scannable
 
 Re_Construction, sophisticatedcore
+
+Delta, sophisticatedcore (补全)
 
 Re_Construction, supermartijn642corelib
 
