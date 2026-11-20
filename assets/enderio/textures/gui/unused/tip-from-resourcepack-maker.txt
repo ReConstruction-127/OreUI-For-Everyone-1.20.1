@@ -1,0 +1,8 @@
+These things might be hidden.
+or just have not be added.
+
+--(from the resourcepack painter, to sort the folder)
+
+===========
+
+部分东西我个人认为后期可能会加入游戏,因此不删除部分材质 -- jihan_hanhan
