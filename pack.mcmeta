@@ -1,6 +1,9 @@
 {
 	"pack": {
 		"pack_format": 15,
-		"description": "§bOreUI, But Everyone\n§aBy Re_Construction"
+		"description": {
+			"translate": "resourcepack.ore_ui.description",
+			"fallback": "§bOreUI, But Everyone\n§aBy Re_Construction"
+		}
 	}
 }
