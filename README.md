@@ -14,7 +14,7 @@
 
 ## 简介
 
-**OreUI For Everyone** 将 [Applied Energistics 2（AE2）](https://modrinth.com/mod/ae2) 的 OreUI 视觉风格移植到原版与其他模组的界面中，让整合包里的按钮、槽位、面板和交互界面保持更统一的观感。
+**OreUI For Everyone** 将 [Applied Energistics 2 (AE2)](https://modrinth.com/mod/ae2) 的 OreUI 视觉风格移植到原版与其他模组的界面中，让整合包里的按钮、槽位、面板和交互界面保持更统一的观感。
 
 当前项目覆盖 Create、Mekanism、Thermal Series、JEI、FTB 系列、Patchouli、Tinkers' Construct 等常用模组及其附属。
 
