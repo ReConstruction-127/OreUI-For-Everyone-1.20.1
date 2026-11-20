@@ -8,6 +8,8 @@
 
 [your_name], [mod_id] [(additions)]
 
+Delta, ad_astra_giselle_addon
+
 Re_Construction, advanced_ae
 
 Re_Construction, ae2 (1.20.1适配)
@@ -50,13 +52,13 @@ Delta, cookingforblockheads
 
 Delta, craftingstationjei
 
-OnDreamQwQ craftingtweaks
+OnDreamQwQ, craftingtweaks
 
 Re_Construction, create
 
 Re_Construction, create_connected
 
-Re_Construction, create_enchantment_industary
+Re_Construction, create_enchantment_industry
 
 Delta, cucumber
 
@@ -64,7 +66,9 @@ Re_Construction, curios
 
 AL, curios
 
-Re_Construction, custommachinary
+Re_Construction, custommachinery
+
+Re_Construction, custommachinerymekanism
 
 Delta, cyclopscore
 
@@ -81,6 +85,10 @@ jihan_hanhan, enderio (1.20.1)
 Re_Construction, entity_features
 
 Re_Construction, expatternprovider (1.20.1适配)
+
+jihan_hanhan, exposure
+
+Delta, extendedae_plus
 
 Delta, extendedcrafting
 
@@ -103,6 +111,8 @@ Re_Construction, ftblibrary
 Re_Construction, ftbquests
 
 Delta, ftbquests (JEI适配)
+
+Delta, ftbteams
 
 Re_Construction, gtceu
 
@@ -142,11 +152,11 @@ OnDreamQwQ, lightmanscurrency
 
 Delta, lychee
 
+Delta, mbd2
+
 Re_Construction, mbtool
 
 Delta, mbtool (补全)
-
-Delta, mbd2
 
 Re_Construction, mekagenjei
 
@@ -167,6 +177,8 @@ Delta, minecraft (补全)
 Delta, modularrouters
 
 Re_Construction, neoecoae
+
+Delta, ore_ui (此资源包的描述本地化)
 
 Delta, patchouli
 
@@ -196,9 +208,9 @@ Re_Construction, thermal
 
 Delta, thermal (补全)
 
-Re_Construction, thermal_extra
-
 Re_Construction, thermal_dynamics
+
+Re_Construction, thermal_extra
 
 Re_Construction, titanium
 
