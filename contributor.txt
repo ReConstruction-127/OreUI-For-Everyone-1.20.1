@@ -148,6 +148,12 @@ Delta, jei_mekanism_multiblocks
 
 Delta, jeresources
 
+Delta, kaleidoscope_cookery
+
+Delta, kaleidoscope_end
+
+Delta, kaleidoscope_tavern
+
 OnDreamQwQ, l2tabs
 
 Re_Construction, ldlib
@@ -177,6 +183,8 @@ Delta, mekanismadditions
 Delta, mekanismgenerators
 
 Delta, mekanismtools
+
+Delta, mezz_config
 
 Re_Construction, minecraft
 
