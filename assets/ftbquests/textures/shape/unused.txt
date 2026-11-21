@@ -1,0 +1,35 @@
+QUEST NODE SHAPES — INACTIVE
+============================
+This folder is intentionally inactive. FTB Quests only reads node
+textures from  assets/ftbquests/textures/shapes/<id>/  (with an "s").
+
+TO ENABLE
+  Rename this folder:  shape  ->  shapes
+  No other change needed. The default ids (circle, square, rsquare and the
+  theme's extra_quest_shapes) are already registered.
+
+FILES PER SHAPE (all three required)
+  shape.png       silhouette + alpha = click/hover mask.
+                  Keep it white: it is tinted DARK_GRAY as a drop shadow.
+  background.png  node fill. Drawn on top of a WHITE alpha=150 tint, so its
+                  own alpha is multiplied down.
+  outline.png     keep it WHITE + alpha: it is tinted by the quest state
+                  colour (completed / started / locked).
+  Missing any file => purple-black missing texture.
+
+RESOLUTION
+  16x16 is upscaled (node is 24px at default zoom). The mod ships
+  "<png>.mcmeta" with blur:true; add your own with
+  {"texture":{"blur":false}} for crisp edges.
+
+NEW IDS
+  A shape id that is not circle/square/rsquare must also be listed in
+  ftb_quests_theme.txt -> extra_quest_shapes.
+
+中文
+  本目录未启用：FTB Quests 只从 textures/shapes/<id>/（带 s）读取节点贴图。
+  启用：把 shape 重命名为 shapes，其它不用改。
+  每个形状必须三张：shape.png（alpha 即点击判定，且会被深灰染色当投影）、
+  background.png（会再乘 alpha 150）、outline.png（必须纯白才会被状态色染色）。
+  16×16 会被放大，想要锐利就加同名 .mcmeta 设 blur:false。
+  新增形状 id 还需在主题 extra_quest_shapes 里登记。
